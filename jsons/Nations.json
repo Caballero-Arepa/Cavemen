@@ -478,7 +478,18 @@
 		"innerColor": [198,255,192],
 		"cities": ["Jerusalem"]
 	},
+        {
+"name": "CivilizedDinosaurs",
+"adjective": ["Civildinos"],
+"cityStateType": "Militaristic",
 
+"declaringWar": "The Dinosaurs will eat your folks for breakfast!",
+"attacked": "You haven't thought this through, have you? Your hunters blood will only feed the beasts!",
+"defeated": "You have shown us the superiority of mankind. The dinosaurs will finally leave into extinction.",
+"outerColor": [0, 0, 0],
+"innerColor": [255,120,10],
+"cities": ["Dino Habitat"]
+        },
 
 
 	//Barbarian
