@@ -3,13 +3,13 @@
 
 	// Always available
 	{
-		"name": "Palace",
+		"name": "Humankind Refuge",
 		"isNationalWonder": true,
-		"production": 3,
-		"science": 3,
-		"gold": 3,
+		"production": 2,
+		"science": 2,
+		"gold": 1,
 		"culture": 1,
-		"cityStrength": 2,
+		"cityStrength": 5,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
 	},
