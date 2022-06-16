@@ -1,7 +1,7 @@
 [
 	{
 		"columnNumber": 0,
-		"era": "Era 1",
+		"era": "Cave Era",
 		"techCost": 20,
 		"buildingCost": 40,
 		"techs": [
@@ -15,7 +15,7 @@
 	},
 	{
 		"columnNumber": 1,
-		"era": "Era 1",
+		"era": "Cave Era",
 		"techCost": 35,
 		"buildingCost": 60,
 		"wonderCost": 185,
@@ -31,7 +31,7 @@
 	},
 	{
 		"columnNumber": 2,
-		"era": "Era 1",
+		"era": "Cave Era",
 		"techCost": 55,
 		"buildingCost": 75,
 		"wonderCost": 185,
