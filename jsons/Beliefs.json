@@ -85,9 +85,9 @@
         // Alternatively, we could approximate this with "[+15]% Production when constructing [All] wonders [in all cities] <during the [Ancient era]>"
     },
     {
-        "name": "One with Nature",
+        "name": "Dinosaur Legacy",
         "type": "Pantheon",
-        "uniques": ["[+4 Faith] from every [Natural Wonder]"]
+        "uniques": ["[+3 Faith, +2 Culture] from every [Natural Wonder]"]
     },
     {
         "name": "Oral Tradition",
