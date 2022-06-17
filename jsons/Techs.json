@@ -1,7 +1,7 @@
 [
 	{
 		"columnNumber": 0,
-		"era": "Cave Era",
+		"era": "Ice Age",
 		"techCost": 20,
 		"buildingCost": 40,
 		"techs": [
@@ -21,7 +21,7 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Fire",
+				"name": "Cave",
 				"row": 6,
 				"prerequisites": ["Society"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
@@ -30,8 +30,56 @@
 		]
 	},
 	{
-		"columnNumber": 2,
-		"era": "Cave Era",
+		"columnNumber": 3,
+		"era": "Fire Era",
+		"techCost": 35,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Fire",
+				"row": 6,
+				"prerequisites": ["Cave"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
+
+		]
+	},
+	{
+		"columnNumber": 5,
+		"era": "Stone Era",
+		"techCost": 35,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Stone Tools",
+				"row": 6,
+				"prerequisites": ["Fire"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
+
+		]
+	},
+	{
+		"columnNumber": 9,
+		"era": "Setlement Era",
+		"techCost": 35,
+		"buildingCost": 60,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "Campments",
+				"row": 6,
+				"prerequisites": ["Stone Tools"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
+
+		]
+	},
+	{
+		"columnNumber": 12,
+		"era": "Mankind Age",
 		"techCost": 55,
 		"buildingCost": 75,
 		"wonderCost": 185,
@@ -39,7 +87,7 @@
 			{
 				"name": "Agriculture",
 				"row": 6,
-				"prerequisites": ["Fire"],
+				"prerequisites": ["Campments"],
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Can be continually researched"]
 			}
