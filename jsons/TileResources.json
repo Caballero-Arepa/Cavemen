@@ -48,15 +48,6 @@
 					"Generated on every [20] tiles <in [Fresh Water] [Desert] tiles> <in tiles without [Hill]> <in [Hill] Regions>"]
 	},
 	{
-		"name": "Stone",
-		"resourceType": "Bonus",
-		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
-		"production": 1,
-		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
-					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
-					"Generated on every [19] tiles <in [Featureless] [Desert] tiles>"]
-	},
-	{
 		"name": "Fish",
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Coast"],
@@ -71,6 +62,15 @@
 		"improvementStats": {"production": 1}
 	},
 	
+	{
+		"name": "Stone",
+		"resourceType": "Strategic",
+		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
+		"production": 1,
+		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
+					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
+					"Generated on every [19] tiles <in [Featureless] [Desert] tiles>"]
+	},
 	// Luxury resources
 	{
 		"name": "Furs",
