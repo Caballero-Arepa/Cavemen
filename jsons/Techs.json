@@ -64,15 +64,15 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Fire",
-				"row": 6,
-				"prerequisites": ["Cave"],
-				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
-			},
-			{
 				"name": "Speech",
 				"row": 4,
 				"prerequisites": ["Cave", "Hunting"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
+			{
+				"name": "Fire",
+				"row": 6,
+				"prerequisites": ["Cave"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
 
