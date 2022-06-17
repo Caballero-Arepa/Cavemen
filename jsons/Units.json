@@ -6,6 +6,8 @@
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles"],
 		"cost": 70
+		"requiredTech": "Stone Tools",
+		
 	},
 	{
 		"name": "Settler",
@@ -32,9 +34,40 @@
 		"movement": 2,
 		"strength": 8,
 		"cost": 40,
+		"upgradesTo": "Armed Brute",
+		"obsoleteTech": "Campments",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
+		]
+	},
+	{
+		"name": "Unarmed Brute",
+		"unitType": "Sword",
+		"uniqueTo": "Tribe 1",
+		"movement": 2,
+		"strength": 6,
+		"cost": 40,
+		"requiredTech": "Hunting",
+		"upgradesTo": "Armed Brute",
+		"obsoleteTech": "Stone Tools",
+		"uniques": ["[+50]% Strength <vs [Scout] units> <when attacking>","[+20]% Strength <vs [Sword] units> <when attacking>"]
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "An unarmed, crazy fighter. Don't mess with him"}
+		]
+	},
+	{
+		"name": "Armed Brute",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 80,
+		"requiredTech": "Stone Tools",
+		"requiredResource": "Stone",
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "I still dont know what weapon this guy has"}
 		]
 	},
 
