@@ -1,10 +1,5 @@
 [
   {
-    "name": "Route",
-    "description": "Build a road to connect your capital to our city.",
-    "influence": 50
-  },
-  {
     "name": "Clear Barbarian Camp",
     "description": "We feel threatened by a Barbarian Camp near our city. Please take care of it.",
     "type": "Global",
