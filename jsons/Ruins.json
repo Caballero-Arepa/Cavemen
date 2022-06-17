@@ -1,70 +1,70 @@
 [
     {
         "name": "discover cultural artifacts",
-        "notification": "We have discovered cultural artifacts in the ruins! (+20 culture)",
-        "uniques": ["Gain [20] [Culture]"],
+        "notification": "A long forgotten god gave as signs about the meaning of intellect and society (+30 culture)",
+        "uniques": ["Gain [30] [Culture]"],
         "color": "#cf8ff7"
     },
     {
         "name": "squatters willing to work for you",
-        "notification": "A [Worker] has joined us!",
+        "notification": "The old gods have blessed one of our people with Tools[Worker]!",
         "uniques": ["Free [Worker] found in the ruins"],
-        "excludedDifficulties": ["Prince", "King", "Emperor", "Immortal", "Deity"]
+        "excludedDifficulties": ["Emperor", "Immortal", "Deity"]
     },
+    //{
+      //  "name": "squatters wishing to settle under your rule",
+      //  "notification": "A [Settler] has joined us!",
+      //  "uniques": ["Free [Settler] found in the ruins"],
+      //  "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"]
+    //},
     {
-        "name": "squatters wishing to settle under your rule",
-        "notification": "A [Settler] has joined us!",
-        "uniques": ["Free [Settler] found in the ruins"],
-        "excludedDifficulties": ["Warlord","Prince","King","Emperor","Immortal","Deity"]
-    },
-    {
-        "name": "your exploring unit receives training",
-        "notification": "An ancient tribe trained us in their ways of combat!",
-        "uniques": ["This Unit gains [10] XP", "Only available after [10] turns"]
+        "name": "free xp",
+        "notification": "We have found the remains of a fallen god who shows us how to survive the wilderness!",
+        "uniques": ["This Unit gains [20] XP", "Only available after [25] turns"]
     },
     {
         "name": "survivors (adds population to a city)",
-        "notification": "We have found survivors in the ruins! Population added to [cityName].",
-        "uniques": ["[+1] population in a random city"], // This can't be easily added to cityFilter, as it is non-deterministic
+        "notification": "We have found the last remaining people of a starving tribe. We let them live in [cityName].",
+        "uniques": ["[+2] population in a random city"], // This can't be easily added to cityFilter, as it is non-deterministic
 		"color": "#81c784"
     },
     {
         "name": "a stash of gold",
-        "notification": "We have found a stash of [goldAmount] Gold in the ruins!",
-        "uniques": ["Gain [50]-[100] [Gold]"],
+        "notification": "We have found [goldAmount] old coins of an old heavenly currency!",
+        "uniques": ["Gain [69]-[130] [Gold]"],
         "color": "#ffeb7f"
     },
     {
         "name": "discover a lost technology",
-        "notification": "We have discovered the lost technology of [techName] in the ruins!",
+        "notification": "The old remnants contained the wisdom of [techName]!",
         "uniques": ["[1] free random researchable Tech(s) from the [Cave Era]"],
 		"color": "#7f7fff"
     },
     {
         "name": "advanced weaponry for your explorer",
-        "notification": "Our unit finds advanced weaponry hidden in the ruins!",
+        "notification": "A fallen God Warlord blesses our explorer with one of his divine weapons!",
         "uniques": ["This Unit upgrades for free including special upgrades"]
     },
     {
-        "name": "reveal nearby Barbarian camps",
-        "notification": "You find evidence of Barbarian activity. Nearby Barbarian camps are revealed!",
-        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [10] tile radius"]
+        "name": "reveal nearby hostile wildlife habitats",
+        "notification": "The magical map indide the old structure shows us the nearby habitats of hostile wildlife!",
+        "uniques": ["Reveal up to [All] [Barbarian encampment] within a [15] tile radius"]
     },
     {
         "name": "find a crudely-drawn map",
-        "notification": "We have found a crudely-drawn map in the ruins!",
-        "uniques": ["From a randomly chosen tile [4] tiles away from the ruins, reveal tiles up to [4] tiles away with [80]% chance"]
+        "notification": "We have found a the map of a god messenger. It reveals us a lot the information about our surroundings!",
+        "uniques": ["From a randomly chosen tile [0] tiles away from the ruins, reveal tiles up to [8] tiles away with [100]% chance"]
     },
     {
         "name": "discover holy symbols",
-        "notification": "We have found holy symbols in the ruins, giving us a deeper understanding of religion! (+[faithAmount] Faith)",
+        "notification": "We have found holy symbols in the remnants giving us the knowledge about a former god! (+[faithAmount] Faith)",
         "uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Hidden after founding a Pantheon", "Only available after [20] turns"],
 		"color": "#CDDDF4"
     },
     {
         "name": "an ancient prophecy",
-        "notification": "We have found an ancient prophecy in the ruins, greatly increasing our spiritual connection! (+[faithAmount] Faith)",
-        "uniques": ["Hidden when religion is disabled", "Gain enough Faith for [33]% of a Great Prophet", "Hidden after generating a Great Prophet", "Hidden before founding a Pantheon", "Only available after [20] turns"],
+        "notification": "We have found the origin of dying god, giving as a better understanding of the spiritual world! (+[faithAmount] Faith)",
+        "uniques": ["Hidden when religion is disabled", "Gain enough Faith for [40]% of a Great Prophet", "Hidden after generating a Great Prophet", "Hidden before founding a Pantheon", "Only available after [25] turns"],
 		"color": "#CDDDF4"
     }
 ]
