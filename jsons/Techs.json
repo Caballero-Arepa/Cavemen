@@ -57,7 +57,7 @@
 		]
 	},
 	{
-		"columnNumber": 4,
+		"columnNumber": 3,
 		"era": "Fire Era",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -79,7 +79,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 4,
 		"era": "Stone Era",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -91,11 +91,17 @@
 				"prerequisites": ["Fire"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
+			{
+				"name": "Stone Pilars",
+				"row": 3,
+				"prerequisites": ["Fire"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
 
 		]
 	},
 	{
-		"columnNumber": 10,
+		"columnNumber": 5,
 		"era": "Settlement Era",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -111,7 +117,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 6,
 		"era": "Mankind Age",
 		"techCost": 55,
 		"buildingCost": 75,
