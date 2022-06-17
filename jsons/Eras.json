@@ -108,7 +108,7 @@
         "iconRGB": [115, 115, 115]
     },
     {
-        "name": "Settling Era",
+        "name": "Setlement Era",
         "researchAgreementCost": 150,
         "startingSettlerCount": 1,
         "startingWorkerCount": 0,
