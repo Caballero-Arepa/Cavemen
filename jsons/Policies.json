@@ -1,7 +1,7 @@
 [
     {
         "name": "Tradition",
-        "era": "Ice age",
+        "era": "Ice Age",
         "priorities": {
             "Neutral": 30,
             "Cultural": 30,
