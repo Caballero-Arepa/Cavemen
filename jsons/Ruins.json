@@ -7,9 +7,9 @@
     },
     {
         "name": "squatters willing to work for you",
-        "notification": "The old gods have blessed one of our people with Tools[Worker]!",
+        "notification": "The old gods have blessed one of our people with Tools!",
         "uniques": ["Free [Worker] found in the ruins"],
-        "excludedDifficulties": ["Emperor", "Immortal", "Deity"]
+        "excludedDifficulties": ["King","Emperor","Immortal","Deity"]
     },
     //{
       //  "name": "squatters wishing to settle under your rule",
@@ -53,7 +53,7 @@
     {
         "name": "find a crudely-drawn map",
         "notification": "We have found a the map of a god messenger. It reveals us a lot the information about our surroundings!",
-        "uniques": ["From a randomly chosen tile [0] tiles away from the ruins, reveal tiles up to [8] tiles away with [100]% chance"]
+        "uniques": ["From a randomly chosen tile [1] tiles away from the ruins, reveal tiles up to [8] tiles away with [100]% chance"]
     },
     {
         "name": "discover holy symbols",
