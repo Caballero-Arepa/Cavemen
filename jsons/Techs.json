@@ -6,15 +6,30 @@
 		"buildingCost": 40,
 		"techs": [
 			{
-				"name": "Society",
+				"name": "Communication",
 				"row": 6,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Starting tech"]
 			}
 		]
 	},
-	{
+		{
 		"columnNumber": 1,
+		"era": "Ice Age",
+		"techCost": 20,
+		"buildingCost": 40,
+		"techs": [
+			{
+				"name": "Society",
+				"row": 6,
+				"prerequisites": ["Communication"],
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Starting tech"]
+			}
+		]
+	},
+	{
+		"columnNumber": 2,
 		"era": "Cave Era",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -26,11 +41,23 @@
 				"prerequisites": ["Society"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
+			{
+				"name": "Hunting",
+				"row": 3,
+				"prerequisites": ["Society"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
+			{
+				"name": "Gathering",
+				"row": 9,
+				"prerequisites": ["Society"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			}, 
 
 		]
 	},
 	{
-		"columnNumber": 3,
+		"columnNumber": 4,
 		"era": "Fire Era",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -42,11 +69,17 @@
 				"prerequisites": ["Cave"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
+			{
+				"name": "Speech",
+				"row": 4,
+				"prerequisites": ["Cave", "Hunting"],
+				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
+			},
 
 		]
 	},
 	{
-		"columnNumber": 5,
+		"columnNumber": 6,
 		"era": "Stone Era",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -62,7 +95,7 @@
 		]
 	},
 	{
-		"columnNumber": 9,
+		"columnNumber": 10,
 		"era": "Settlement Era",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -78,7 +111,7 @@
 		]
 	},
 	{
-		"columnNumber": 12,
+		"columnNumber": 13,
 		"era": "Mankind Age",
 		"techCost": 55,
 		"buildingCost": 75,
