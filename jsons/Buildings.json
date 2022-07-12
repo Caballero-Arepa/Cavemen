@@ -21,4 +21,9 @@
 		"maintenance": 1,
 		"uniques": ["Destroyed when the city is captured"]
 	},
+        {
+                "name": "Credit Hall",
+                "hurryCostModifier": 40,
+                "uniques": ["Destroyed when the city is captured"]
+        },
 ]
