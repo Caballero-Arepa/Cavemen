@@ -130,6 +130,23 @@
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Can be continually researched"]
 			}
+
 		]
 	}
+        {
+                "comumnNumber": 6,
+                "era": "Mankind Age",
+                "techCost": 300,
+                "buildingsCost": 200,
+                "wonderCost": 500,
+                "techs": [
+                         {
+                                "name": "Credits",
+                                "row": 4,
+                                "prerequisites": ["Agriculture"],
+                                "quote": "Honor the creator, honor your tribe, and honor the one who lightet the spark to create this. In two words: Honor me.' -Bamboolord",
+                                "uniques": ["Can be continually researched"]
+                          }
+                          ]
+
 ]
