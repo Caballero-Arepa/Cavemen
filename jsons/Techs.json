@@ -56,8 +56,21 @@
 
 		]
 	},
+        {
+                "columnNumber": 3,
+                "era": "Cave Era",
+                "techCost": 35,
+                "buildingCost": 60,
+                "wonderCost": 185
+                "techs": [
+                        {
+                                "name": "Cave Expanding",
+                                "row": 7,
+                                "prerequesites": ["Cave","Gathering"],
+                                "quote": "'hobbit hole (Tolkien) insert later'"
+                         },
 	{
-		"columnNumber": 3,
+		"columnNumber": 4,
 		"era": "Fire Era",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -79,7 +92,7 @@
 		]
 	},
 	{
-		"columnNumber": 4,
+		"columnNumber": 5,
 		"era": "Stone Era",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -101,7 +114,7 @@
 		]
 	},
 	{
-		"columnNumber": 5,
+		"columnNumber": 6,
 		"era": "Settlement Era",
 		"techCost": 35,
 		"buildingCost": 60,
@@ -117,7 +130,7 @@
 		]
 	},
 	{
-		"columnNumber": 6,
+		"columnNumber": 7,
 		"era": "Mankind Age",
 		"techCost": 55,
 		"buildingCost": 75,
@@ -130,6 +143,23 @@
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Can be continually researched"]
 			}
+
 		]
 	}
+        {
+                "comumnNumber": 8,
+                "era": "Mankind Age",
+                "techCost": 300,
+                "buildingsCost": 200,
+                "wonderCost": 500,
+                "techs": [
+                         {
+                                "name": "Credits",
+                                "row": 4,
+                                "prerequisites": ["Agriculture"],
+                                "quote": "Honor the creator, honor your tribe, and honor the one who lightet the spark to create this. In two words: Honor me.' -Bamboolord",
+                                "uniques": ["Can be continually researched"]
+                          }
+                          ]
+
 ]
