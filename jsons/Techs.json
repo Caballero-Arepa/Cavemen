@@ -52,7 +52,7 @@
 				"row": 9,
 				"prerequisites": ["Society"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
-			}, 
+			} 
 
 		]
 	},
@@ -68,7 +68,7 @@
                                 "row": 7,
                                 "prerequesites": ["Cave","Gathering"],
                                 "quote": "'hobbit hole (Tolkien) insert later'"
-                         },
+                         }
 		]
 	},
 	{
@@ -89,7 +89,7 @@
 				"row": 6,
 				"prerequisites": ["Cave"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
-			},
+			}
 
 		]
 	},
@@ -111,7 +111,7 @@
 				"row": 3,
 				"prerequisites": ["Fire"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
-			},
+			}
 
 		]
 	},
@@ -127,7 +127,7 @@
 				"row": 6,
 				"prerequisites": ["Stone Tools"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
-			},
+			}
 
 		]
 	},
@@ -144,7 +144,7 @@
 				"prerequisites": ["Campments"],
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Can be continually researched"]
-			},
+			}
 
 		]
 	},
@@ -152,16 +152,16 @@
                 "comumnNumber": 8,
                 "era": "Mankind Age",
                 "techCost": 300,
-                "buildingsCost": 200,
+                "buildingCost": 200,
                 "wonderCost": 500,
                 "techs": [
                          {
                                 "name": "Credits",
                                 "row": 4,
                                 "prerequisites": ["Agriculture"],
-                                "quote": "Honor the creator, honor your tribe, and honor the one who lightet the spark to create this. In two words: Honor me.' -Bamboolord",
+                                "quote": "'Honor the creator, honor your tribe, and honor the one who lightet the spark to create this. In two words: Honor me.' -Bamboolord",
                                 "uniques": ["Can be continually researched"]
-                          },
-                          ]
-	},
+                          }
+                 ]
+	}
 ]
