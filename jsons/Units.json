@@ -93,7 +93,7 @@
 			"[+100]% Strength <vs [Dino] units>",
 			"[+100]% Strength <vs [DinoRange] units>",
 			"[+100]% Strength <vs [DinoMounted] units>",
-			"[+100]% Strength <vs [MountedRanged] units>",]
+			"[+100]% Strength <vs [MountedRanged] units>"]
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "The spear believing Followers of th faction"}
