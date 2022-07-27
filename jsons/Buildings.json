@@ -25,6 +25,7 @@
                 "name": "Credit Hall",
 		"specialistSlots": {"Thinker": 1, "Organizer": 1, "Storyteller": 1, "Handyman": 1},
                 "hurryCostModifier": 40,
+		"requiredTech": "Credits",
                 "uniques": ["Destroyed when the city is captured"]
         },
 ]
