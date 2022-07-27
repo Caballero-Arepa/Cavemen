@@ -33,6 +33,8 @@
 		"resourceType": "Bonus",
 		"terrainsCanBeFoundOn": ["Jungle"],
 		"food": 1,
+		"improvement": "Gathering Spot",
+		"improvementStats": {"gold": 1}
 		"uniques": ["Generated on every [14] tiles <in [Jungle] tiles>",
 					"Generated on every [16] tiles <in [Jungle] tiles> <in [Hill] Regions>"]
 	},
@@ -67,6 +69,7 @@
 		"resourceType": "Strategic",
 		"terrainsCanBeFoundOn": ["Grassland","Desert","Tundra"],
 		"production": 1,
+		"improvement": "Gathering Spot",
 		"uniques": ["Generated on every [20] tiles <in [Featureless] [Grassland] tiles> <in tiles without [Fresh Water]>",
 					"Generated on every [15] tiles <in [Featureless] [Tundra] tiles>",
 					"Generated on every [19] tiles <in [Featureless] [Desert] tiles>"]
