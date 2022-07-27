@@ -8,6 +8,10 @@
         "movementType": "Land"
     },
     {
+        "name": "Spearhead",
+        "movementType": "Land"
+    },
+    {
         "name": "Scout",
         "movementType": "Land"
     },
