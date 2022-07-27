@@ -69,6 +69,8 @@
                                 "prerequesites": ["Cave","Gathering"],
                                 "quote": "'hobbit hole (Tolkien) insert later'"
                          },
+		]
+	},
 	{
 		"columnNumber": 4,
 		"era": "Fire Era",
