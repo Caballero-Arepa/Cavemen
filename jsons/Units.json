@@ -10,6 +10,15 @@
 		
 	},
 	{
+		"name": "Gatherer",
+		"unitType": "Civilian",
+		"movement": 2,
+		"uniques": ["Can construct [Gathering Spot]"],
+		"cost": 25
+		"requiredTech": "Gathering",
+		
+	},
+	{
 		"name": "Settler",
 		"unitType": "Civilian",
 		"movement": 2,
