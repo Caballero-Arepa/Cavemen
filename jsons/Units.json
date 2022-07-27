@@ -5,8 +5,8 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Can build [Land] improvements on tiles"],
-		"cost": 70
-		"requiredTech": "Stone Tools",
+		"cost": 70,
+		"requiredTech": "Stone Tools"
 		
 	},
 	{
@@ -14,8 +14,8 @@
 		"unitType": "Civilian",
 		"movement": 2,
 		"uniques": ["Can construct [Gathering Spot]"],
-		"cost": 25
-		"requiredTech": "Gathering",
+		"cost": 25,
+		"requiredTech": "Gathering"
 		
 	},
 	{
@@ -33,7 +33,6 @@
 		"movement": 2,
 		"strength": 5,
 		"cost": 25,
-		"uniques": ["Never appears as a Barbarian unit"],
 		"promotions": ["Ignore terrain cost"],
 		"attackSound": "nonmetalhit"
 	},
@@ -72,6 +71,7 @@
 		"movement": 2,
 		"strength": 15,
 		"cost": 80,
+		"uniques": ["Never appears as a Barbarian unit"],
 		"requiredTech": "Stone Tools",
 		"requiredResource": "Stone",
 		"attackSound": "nonmetalhit",
