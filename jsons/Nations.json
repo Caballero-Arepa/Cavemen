@@ -121,7 +121,7 @@
 		"defeated": "The faction has failed. We never thought these days were coming",
 		"outerColor": [0, 0, 255],
 		"innerColor": [20,100,150],
-		"uniques": ["Cannot build [Sword] units", "Cannot build [Scout] units"],
+	//	"uniques": ["Cannot build [Sword] units", "Cannot build [Scout] units"],
 		"cities": ["Spearcenter"]
         },
 	//Trash
