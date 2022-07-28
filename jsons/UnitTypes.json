@@ -8,7 +8,31 @@
         "movementType": "Land"
     },
     {
+        "name": "Spearhead",
+        "movementType": "Land"
+    },
+    {
         "name": "Scout",
+        "movementType": "Land"
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land"
+    },
+    {
+        "name": "Dino",
+        "movementType": "Land"
+    },
+    {
+        "name": "DinoRange",
+        "movementType": "Land"
+    },
+    {
+        "name": "DinoMounted",
+        "movementType": "Land"
+    },
+    {
+        "name": "MountedRanged",
         "movementType": "Land"
     },
 ]

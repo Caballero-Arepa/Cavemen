@@ -111,8 +111,21 @@
 		"innerColor": [255,20,10],
 		"cities": ["Dino Habitat"]
         },
-	//Trash
 	{
+		"name": "Spearhead faction",
+		"adjective": ["speared"],
+		"cityStateType": "Cultured",
+
+		"declaringWar": "We show you the meaning of spears",
+		"attacked": "Our spears will defend us from your crimes",
+		"defeated": "The faction has failed. We never thought these days were coming",
+		"outerColor": [0, 0, 255],
+		"innerColor": [20,100,150],
+	//	"uniques": ["Cannot build [Sword] units", "Cannot build [Scout] units"],
+		"cities": ["Spearcenter"]
+        },
+	//Trash
+/*	{
 		"name": "Brussels",
 		"adjective": ["Bruxellois"],
 		"cityStateType": "Cultured",
@@ -522,6 +535,7 @@
 		"innerColor": [198,255,192],
 		"cities": ["Jerusalem"]
 	},
+	*/
 
 
 	//Barbarian
