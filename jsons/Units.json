@@ -59,7 +59,7 @@
 		"requiredTech": "Hunting",
 		"upgradesTo": "Armed Brute",
 		"obsoleteTech": "Stone Tools",
-		"uniques": ["[+50]% Strength <vs [Scout] units> <when attacking>","[+20]% Strength <vs [Sword] units> <when attacking>"]
+		"uniques": ["[+50]% Strength <vs [Scout] units> <when attacking>","[+25]% Strength <vs [Sword] units> <when attacking>"]
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "An unarmed, crazy fighter. Don't mess with him"}
@@ -96,7 +96,7 @@
 			"[+100]% Strength <vs [MountedRanged] units>"]
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
-			{"text": "The spear believing Followers of th faction"}
+			{"text": "The spear believing Followers of the faction"}
 		]
 	},
 
