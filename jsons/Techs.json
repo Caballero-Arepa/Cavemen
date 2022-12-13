@@ -154,7 +154,7 @@
 
 		]
 	},
-        {
+/*        {
                 "comumnNumber": 8,
                 "era": "Mankind Age",
                 "techCost": 300,
@@ -169,5 +169,5 @@
                                 //"uniques": ["Can be continually researched"]
                           }
                  ]
-	}
+	} */
 ]
