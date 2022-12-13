@@ -90,7 +90,7 @@
 */		
 		"outerColor": [180, 178, 164],
 		"innerColor": [70, 0, 4],
-		"favoredReligion": "Tengriism",
+		//"favoredReligion": "Tengriism",
 		"uniqueName": "Skillfulness of Homo Sapiens",
 		"uniques": ["Starts with [Cave]","Starts with [Hunting]","Starts with [Gathering]","Starts with [Speech]"],
 		"cities": ["Jebel Irhoud","Gazelle Cave","Afriga Savan Cave"]
