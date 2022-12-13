@@ -7,7 +7,7 @@
 		"techs": [
 			{
 				"name": "Communication",
-				"row": 6,
+				"row": 1,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"uniques": ["Starting tech"]
 			}
@@ -87,13 +87,13 @@
 			{
 				"name": "Speech",
 				"row": 4,
-				"prerequisites": ["Cave", "Hunting"],
+				"prerequisites": ["Caves", "Hunting"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
 			{
 				"name": "Fire",
 				"row": 6,
-				"prerequisites": ["Cave"],
+				"prerequisites": ["Caves"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			}
 
