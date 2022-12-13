@@ -25,4 +25,12 @@
 		"greatPersonPoints": {"Great Engineer":3},
 		"color": [139,69,19]
 	}
+	{
+		"name":"Shaman",
+		"science":2,
+                "faith":1,
+		"culture":1,
+		//"greatPersonPoints": {"Great Engineer":3},
+		"color": [255,255,255]
+	}
 ]
