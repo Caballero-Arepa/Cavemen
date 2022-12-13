@@ -93,7 +93,7 @@
 			{
 				"name": "Fire",
 				"row": 6,
-				"prerequisites": ["Caves"],
+				"prerequisites": ["Expanding the Caves"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			}
 
@@ -109,7 +109,7 @@
 			{
 				"name": "Stone Tools",
 				"row": 6,
-				"prerequisites": ["Fire"],
+				"prerequisites": ["Fire","Cave Paintings"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
 			{
