@@ -36,7 +36,7 @@
 		"wonderCost": 185,
 		"techs": [
 			{
-				"name": "Cave",
+				"name": "Caves",
 				"row": 6,
 				"prerequisites": ["Society"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
@@ -44,7 +44,7 @@
 			{
 				"name": "Hunting",
 				"row": 3,
-				"prerequisites": ["Society"],
+				"prerequisites": ["Communication"],
 				"quote": "'Shall the clay say to him that fashioneth it, what makest thou?' - Bible Isaiah 45:9"
 			},
 			{
@@ -64,9 +64,15 @@
                 "wonderCost": 185
                 "techs": [
                         {
-                                "name": "Cave Expanding",
+                                "name": "Expanding the Caves",
                                 "row": 7,
-                                "prerequesites": ["Cave", "Gathering"],
+                                "prerequesites": ["Caves", "Gathering"],
+                                "quote": "'hobbit hole (Tolkien) insert later'"
+                         }
+                        {
+                                "name": "Cave Paintings",
+                                "row": 8,
+                                "prerequesites": ["Caves", "Gathering"],
                                 "quote": "'hobbit hole (Tolkien) insert later'"
                          }
 		]
@@ -156,11 +162,11 @@
                 "wonderCost": 500,
                 "techs": [
                          {
-                                "name": "Credits",
+                                "name": "Credits"
                                 "row": 4,
                                 "prerequisites": ["Agriculture"],
-                                "quote": "'Honor the creator, honor your tribe, and honor the one who lightet the spark to create this. In two words: Honor me.' -Bamboolord",
-                                "uniques": ["Can be continually researched"]
+                                "quote": "'Honor the creator, honor your tribe, and honor the one who lighted the spark to create this. In two words: Honor me.' -Bamboolord",
+                                //"uniques": ["Can be continually researched"]
                           }
                  ]
 	}
