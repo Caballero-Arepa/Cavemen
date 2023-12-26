@@ -69,5 +69,5 @@
 		"science": 3,
 		"specialistSlots": {"Thinker": 1},
 		"requiredTech": "Stone Pillars",
-	},
+	}
 ]
