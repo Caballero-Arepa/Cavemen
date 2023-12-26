@@ -4,6 +4,7 @@
 		"era": "Ice Age",
 		"techCost": 20,
 		"buildingCost": 40,
+		"wonderCost": 85,
 		"techs": [
 			{
 				"name": "Communication",
@@ -18,6 +19,7 @@
 		"era": "Ice Age",
 		"techCost": 20,
 		"buildingCost": 40,
+		"wonderCost": 135,
 		"techs": [
 			{
 				"name": "Society",
