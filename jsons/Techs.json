@@ -135,6 +135,11 @@
 				"quote": "'It looks like we can settle down for a while in this rich area. but, it is not easy to stop living in caves for cavemen.'"
 			},
 			{
+				"name": "Choir",
+				"row": 4,
+				"prerequisites": ["Speech"]
+			},
+			{
 				"name": "Bone Tools",
 				"row": 7,
 				"prerequisites": ["Stone Tools"]
@@ -152,7 +157,7 @@
 			{
 				"name": "Burials",
 				"row": 3,
-				"prerequisites": ["Stone Pillars","Campments"],
+				"prerequisites": ["Choir","Stone Pillars","Campments"],
 				"quote": "'By interring and mourning their ancestors, Cavemen start to come to terms with their own morality.'"
 			},
 			{
