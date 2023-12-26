@@ -58,7 +58,7 @@
     {
         "name": "discover holy symbols",
         "notification": "We have found holy symbols in the remnants giving us the knowledge about a former god! (+[faithAmount] Faith)",
-        "uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Hidden after founding a Pantheon", "Only available <after [20] turns>"],
+        "uniques": ["Hidden when religion is disabled", "Gain enough Faith for a Pantheon", "Hidden <after founding a Pantheon>", "Only available <after [20] turns>"],
 		"color": "#CDDDF4"
     },
     {
