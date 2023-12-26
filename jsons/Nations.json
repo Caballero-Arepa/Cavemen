@@ -119,7 +119,7 @@
 		"innerColor": [70, 0, 4],
 		//"favoredReligion": "Tengriism",
 		"uniqueName": "Skillfulness of Homo Sapiens",
-		"uniques": ["Starts with [Cave]","Starts with [Hunting]","Starts with [Gathering]","Starts with [Speech]"],
+		"uniques": ["Starts with [Caves]","Starts with [Hunting]","Starts with [Gathering]","Starts with [Speech]"],
 		"cities": ["Jebel Irhoud","Gazelle Cave","Afriga Savan Cave"]
 	},
 	

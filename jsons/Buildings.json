@@ -29,4 +29,45 @@
 		//"requiredTech": "Credits",
                 "uniques": ["Destroyed when the city is captured"]
         },
+	// Wonders
+	{
+		"name": "Lascaux Cave",
+		"isWonder": true,
+		"culture": 3,
+		"specialistSlots": {"Storyteller": 1},
+		"requiredTech": "Cave Paintings",
+	},
+	{
+		"name": "Göbekli Tepe",
+		"isWonder": true,
+		"faith": 3,
+		"specialistSlots": {"Handyman": 1},
+		"requiredTech": "Campments",
+	},
+	{
+		"name": "Ōdai Yamamoto",
+		"isWonder": true,
+		"uniques": ["[+25]% [Culture] [in this city]"]
+		"requiredTech": "Settlements",
+	},
+	{
+		"name": "Oldowan",
+		"isWonder": true,
+		"requiredTech": "Stone Tools",
+		"uniques": ["Free Technology"]
+	},
+	{
+		"name": "Qal'at Jarmo",
+		"isWonder": true,
+		"specialistSlots": {"Organizer": 1},
+		"uniques": ["[+1 Food] from [Farm] tiles [in this city]"],
+		"requiredTech": "Agriculture",
+	},
+	{
+		"name": "Stonehenge",
+		"isWonder": true,
+		"science": 3,
+		"specialistSlots": {"Thinker": 1},
+		"requiredTech": "Stone Pillars",
+	}
 ]
